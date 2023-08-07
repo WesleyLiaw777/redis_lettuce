@@ -11,3 +11,10 @@
 2023-08-06 20:59:25.466 [info] [127.0.0.1][d9e8bcbf][ExtensionHostConnection] <8757> Launched Extension Host Process.
 2023-08-06 20:59:27.013 [error] Error: read ECONNRESET
     at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20)
+2023-08-06 21:34:42.559 [info] Getting Manifest... shd101wyy.markdown-preview-enhanced
+2023-08-06 21:34:42.699 [info] Installing extension: shd101wyy.markdown-preview-enhanced
+2023-08-06 21:34:55.088 [info] Extension signature is verified: shd101wyy.markdown-preview-enhanced
+2023-08-06 21:35:05.312 [info] Extracted extension to /home/wesleyl/.vscode-server/extensions/.e1f66112-7e0f-47ef-bc86-3b9fb103cf51: shd101wyy.markdown-preview-enhanced
+2023-08-06 21:35:05.329 [info] Renamed to /home/wesleyl/.vscode-server/extensions/shd101wyy.markdown-preview-enhanced-0.6.8
+2023-08-06 21:35:05.333 [info] Extracting extension completed. shd101wyy.markdown-preview-enhanced
+2023-08-06 21:35:05.344 [info] Extension installed successfully: shd101wyy.markdown-preview-enhanced
