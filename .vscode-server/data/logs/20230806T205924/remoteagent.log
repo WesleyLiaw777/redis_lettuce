@@ -1,0 +1,13 @@
+2023-08-06 20:59:24.881 [info] 
+
+
+
+
+2023-08-06 20:59:24.881 [info] Extension host agent started.
+2023-08-06 20:59:24.906 [info] Started initializing default profile extensions in extensions installation folder. file:///home/wesleyl/.vscode-server/extensions
+2023-08-06 20:59:24.928 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/wesleyl/.vscode-server/extensions
+2023-08-06 20:59:25.039 [info] [127.0.0.1][b84dfecd][ManagementConnection] New connection established.
+2023-08-06 20:59:25.435 [info] [127.0.0.1][d9e8bcbf][ExtensionHostConnection] New connection established.
+2023-08-06 20:59:25.466 [info] [127.0.0.1][d9e8bcbf][ExtensionHostConnection] <8757> Launched Extension Host Process.
+2023-08-06 20:59:27.013 [error] Error: read ECONNRESET
+    at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20)
