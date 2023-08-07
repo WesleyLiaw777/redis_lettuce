@@ -11,3 +11,19 @@
 2023-08-06 21:10:06.547 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1320
 2023-08-06 21:10:10.316 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1320
 2023-08-06 21:10:15.365 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1320
+2023-08-06 21:10:20.449 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1320
+2023-08-06 21:10:23.427 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2023-08-06 21:10:25.538 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1320
+2023-08-06 21:10:30.627 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1320
+2023-08-06 21:10:35.710 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1320
+2023-08-06 21:10:40.775 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1320
+2023-08-06 21:10:45.873 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1321
+2023-08-06 21:10:50.952 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1321
+2023-08-06 21:10:56.055 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1321
+2023-08-06 21:11:01.122 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1321
+2023-08-06 21:11:16.772 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1321
+2023-08-06 21:11:21.863 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1321
+2023-08-06 21:11:27.515 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1321
+2023-08-06 21:11:58.858 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2023-08-06 21:11:58.859 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2023-08-06 21:11:59.447 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
